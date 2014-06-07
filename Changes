@@ -2,6 +2,7 @@ Revision history for Perl module Lingua::EN::Inflect::Number
 
 1.11 2014-06-09
     - Set up the usual directory structure
+    - Switched to Dist::Zilla
 
 1.1 2004-02-28 SIMON
 
