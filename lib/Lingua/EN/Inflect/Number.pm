@@ -104,6 +104,10 @@ any disclaimers on Lingua::EN::Inflect apply double here.
 
 L<Lingua::EN::Inflect>
 
+=head1 REPOSITORY
+
+L<https://github.com/neilbowers/Lingua-EN-Inflect-Number>
+
 =head1 AUTHOR
 
 Simon Cozens, C<simon@cpan.org>

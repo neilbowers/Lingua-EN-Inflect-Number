@@ -4,6 +4,7 @@ Revision history for Perl module Lingua::EN::Inflect::Number
     - Set up the usual directory structure
     - Switched to Dist::Zilla
     - Added COPYRIGHT AND LICENSE section to pod
+    - Added github repo to pod
 
 1.1 2004-02-28 SIMON
 
