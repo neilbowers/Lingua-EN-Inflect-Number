@@ -5,6 +5,10 @@
 
 # change 'tests => 1' to 'tests => last_test_to_print';
 
+use 5.006;
+use strict;
+use warnings;
+
 use Test::More tests => 21;
 use Lingua::EN::Inflect::Number (qw( PL_N to_PL to_S number));
 
