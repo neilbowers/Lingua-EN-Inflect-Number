@@ -100,12 +100,19 @@ idiosyncracies will be fixed at some point in the future and this module
 will need to be rethought. But it works at the moment. Additionally,
 any disclaimers on Lingua::EN::Inflect apply double here.
 
+=head1 SEE ALSO
+
+L<Lingua::EN::Inflect>
+
 =head1 AUTHOR
 
 Simon Cozens, C<simon@cpan.org>
 
-=head1 SEE ALSO
+=head1 COPYRIGHT AND LICENSE
 
-L<Lingua::EN::Inflect>.
+This software is copyright (c) 2004 by Simon Cozens C<simon@cpan.org>
+
+This is free software; you can redistribute it and/or modify it under
+the same terms as the Perl 5 programming language system itself.
 
 =cut
