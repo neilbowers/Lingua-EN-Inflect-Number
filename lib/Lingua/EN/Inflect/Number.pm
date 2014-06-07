@@ -1,11 +1,11 @@
 package Lingua::EN::Inflect::Number;
+
 use 5.006;
 use strict;
 use warnings;
 
 require Exporter;
 our @ISA = qw(Exporter);
-our $VERSION = '1.1';
 our @EXPORT_OK = qw(to_PL to_S number);
 use Lingua::EN::Inflect qw(PL PL_N_eq);
 
