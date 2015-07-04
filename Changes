@@ -1,5 +1,9 @@
 Revision history for Perl module Lingua::EN::Inflect::Number
 
+1.12 2015-07-04 NEILB
+    - Added [MetaJSON] to dist.ini, so release will include META.json.
+      RT#105629 from ETHER++
+
 1.11 2014-06-09
     - Set up the usual directory structure
     - Switched to Dist::Zilla
